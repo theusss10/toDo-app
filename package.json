@@ -1,0 +1,12 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Projeto da disciplina de DevOps",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
