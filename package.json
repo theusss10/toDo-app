@@ -1,11 +1,22 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "Projeto da disciplina de DevOps",
+  "description": "Projeto da disciplina de DevOps.",
   "main": "src/app.js",
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theusss10/toDo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theusss10/toDo-app/issues"
+  },
+  "homepage": "https://github.com/theusss10/toDo-app#readme",
   "devDependencies": {
     "jest": "^30.4.2"
   }
